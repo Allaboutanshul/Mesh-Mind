@@ -6,3 +6,11 @@ dist/
 build/
 *.log
 .DS_Store
+# Android generated/local files
+android/.gradle/
+android/.idea/
+android/local.properties
+**/build/
+**/.gradle/
+
+.vscode/
